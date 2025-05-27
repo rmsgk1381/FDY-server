@@ -59,8 +59,8 @@ app.get('/naver-shopping', async (req, res) => {
   }
 
   // Use environment variables for Naver API credentials
-  const clientId = WZLAIAULVpY68pI2_lRi;
-  const clientSecret = oTbzRK3gWC;
+  const clientId = 'WZLAIAULVpY68pI2_lRi';
+  const clientSecret = 'oTbzRK3gWC';
   const displayPerPage = 100; 
   const maxResults = 1000; 
 
